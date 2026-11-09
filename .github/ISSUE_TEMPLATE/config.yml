@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: FAQ
+    url: https://sshoo.app/faq
+    about: Pricing, Pro, the trial, privacy and how the Claude Code and Codex chat works.
+  - name: Report a security problem privately
+    url: mailto:support@sshoo.app
+    about: Please don't post security problems in public issues.
